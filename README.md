@@ -3,7 +3,6 @@
 
 "I used real-world data from Kaggle and added a dataset created by ChatGPT. I made sure the data matched industry trends and made sense. This helped me practice data cleaning, analysis, and forecasting in a structured way."
 
-The dataset obtained from kaggle is mentioned below-
-https://www.kaggle.com/datasets/shilongzhuang/-women-clothing-ecommerce-sales-data
-And you can find the actual dataset that is obtained by blending the Kaggle dataset and AI generated dataset in .xls format attached.  
-https://github.com/seemaacharya/E-commerce-Sales-Data-Analysis-and-forecasting-future-sales-using-Excel/blob/main/Ecommerce_Sales_Women_Clothing.xlsx
+You can find the raw data & official analysis here:  
+[E-commerce Sales Data Analysis and Forecasting](https://github.com/seemaacharya/E-commerce-Sales-Data-Analysis-and-forecasting-future-sales-using-Excel/blob/main/Ecommerce_Sales_Women_Clothing.xlsx)
+
